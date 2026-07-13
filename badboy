@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+
+    <h1>Welcome to HTML</h1>
+
+    <p>This is a simple HTML webpage.</p>
+
+    <h2>Student Details</h2>
+
+    <ul>
+        <li>Name: Ravichandiran</li>
+        <li>College: Government Arts and Science College, Hosur</li>
+        <li>Course: M.Sc Computer Science</li>
+    </ul>
+
+</body>
+</html>
